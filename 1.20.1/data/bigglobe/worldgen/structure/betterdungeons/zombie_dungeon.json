@@ -1,0 +1,5 @@
+{
+  "type": "bigglobe:delegating",
+  "delegate": "betterdungeons:zombie_dungeon",
+  "biomes": "#bigglobe:has_structure/betterdungeons/zombie_dungeon"
+}

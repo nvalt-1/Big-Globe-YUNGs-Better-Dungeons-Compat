@@ -1,0 +1,18 @@
+{
+  "placement": {
+    "salt": 998767517,
+    "spacing": 16,
+    "separation": 10,
+    "type": "minecraft:random_spread",
+    "exclusion_zone": {
+      "chunk_count": 6,
+      "other_set": "bigglobe:nether_complexes"
+    }
+  },
+  "structures": [
+    {
+      "structure": "bigglobe:betterdungeons/small_nether_dungeon",
+      "weight": 1
+    }
+  ]
+}

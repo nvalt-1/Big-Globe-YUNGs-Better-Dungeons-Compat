@@ -1,0 +1,5 @@
+{
+  "type": "bigglobe:delegating",
+  "delegate": "betterdungeons:spider_dungeon",
+  "biomes": "#bigglobe:has_structure/betterdungeons/spider_dungeon"
+}

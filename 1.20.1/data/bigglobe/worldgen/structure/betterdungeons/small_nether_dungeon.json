@@ -1,0 +1,5 @@
+{
+  "type": "bigglobe:delegating",
+  "delegate": "betterdungeons:small_nether_dungeon",
+  "biomes": "#bigglobe:has_structure/betterdungeons/small_nether_dungeon"
+}
